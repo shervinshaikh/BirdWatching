@@ -19,6 +19,7 @@
 		BFE0F99817AA309100122068 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFE0F99617AA309100122068 /* MainStoryboard.storyboard */; };
 		BFE0F99B17AA309100122068 /* BirdsMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE0F99A17AA309100122068 /* BirdsMasterViewController.m */; };
 		BFE0F99E17AA309100122068 /* BirdsDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE0F99D17AA309100122068 /* BirdsDetailViewController.m */; };
+		BFE0F9A617AA336300122068 /* BirdSighting.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE0F9A517AA336300122068 /* BirdSighting.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,8 @@
 		BFE0F99A17AA309100122068 /* BirdsMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BirdsMasterViewController.m; sourceTree = "<group>"; };
 		BFE0F99C17AA309100122068 /* BirdsDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BirdsDetailViewController.h; sourceTree = "<group>"; };
 		BFE0F99D17AA309100122068 /* BirdsDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BirdsDetailViewController.m; sourceTree = "<group>"; };
+		BFE0F9A417AA336300122068 /* BirdSighting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BirdSighting.h; sourceTree = "<group>"; };
+		BFE0F9A517AA336300122068 /* BirdSighting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BirdSighting.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				BFE0F98D17AA309100122068 /* BirdsAppDelegate.h */,
 				BFE0F98E17AA309100122068 /* BirdsAppDelegate.m */,
 				BFE0F99617AA309100122068 /* MainStoryboard.storyboard */,
+				BFE0F9A417AA336300122068 /* BirdSighting.h */,
+				BFE0F9A517AA336300122068 /* BirdSighting.m */,
 				BFE0F99917AA309100122068 /* BirdsMasterViewController.h */,
 				BFE0F99A17AA309100122068 /* BirdsMasterViewController.m */,
 				BFE0F99C17AA309100122068 /* BirdsDetailViewController.h */,
@@ -183,6 +188,7 @@
 				BFE0F98F17AA309100122068 /* BirdsAppDelegate.m in Sources */,
 				BFE0F99B17AA309100122068 /* BirdsMasterViewController.m in Sources */,
 				BFE0F99E17AA309100122068 /* BirdsDetailViewController.m in Sources */,
+				BFE0F9A617AA336300122068 /* BirdSighting.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
